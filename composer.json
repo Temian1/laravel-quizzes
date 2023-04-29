@@ -1,24 +1,24 @@
 {
-    "name": "harishdurga/laravel-quiz",
+    "name": "kik/laravel-quiz",
     "description": "Provides Quiz Functionality",
     "keywords": [
-        "harishdurga",
-        "laravel-quiz"
+        "kikter",
+        "laravel-quizz"
     ],
-    "homepage": "https://github.com/harishdurga/laravel-quiz",
+    "homepage": "https://github.com/temian1/laravel-quizzes",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Harish Durga",
-            "email": "durgaharish5@gmail.com",
+            "name": "kikter",
+            "email": "kikismedia@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=8.0.2",
         "doctrine/dbal": "^3.3",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^9.0|^10.0"
     },
     "require-dev": {
         "nunomaduro/larastan": "^2.0",
